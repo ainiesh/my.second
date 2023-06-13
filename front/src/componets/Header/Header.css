@@ -1,0 +1,25 @@
+.header{
+  
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo{
+  color: red;
+}
+
+.botton {
+  padding: 15px;
+  background-color: red;
+  font-weight: bold;
+  color:aliceblue;
+  border-radius: 5px;
+}
+
+.botton:hover {
+  border-radius: 15px;
+  color: white
+}
